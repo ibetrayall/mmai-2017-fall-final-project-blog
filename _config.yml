@@ -1,5 +1,5 @@
 # Site settings
-title: MMAI 2017 Fall Final Project Blog
+title: MMAI Fall 2017 Final Project Blog
 description: ""
 url: ""
 author:
@@ -8,7 +8,7 @@ author:
   url: ""
 
 # Build settings
-baseurl: /mmai-blog # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /mmai-2017-fall-final-project-blog # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
